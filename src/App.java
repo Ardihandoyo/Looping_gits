@@ -45,7 +45,7 @@ public class App {
         asam h2 = new asam();
         buah h3 = new buah();
         h3.display();
-        System.out.println("============================================\nTersedia 2 pilihan Buah :");
+        System.out.println("============================================\nTersedia 2 pilihan Jenis Buah :");
         h1.display();
         h2.display();
     }
